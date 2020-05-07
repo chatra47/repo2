@@ -1,13 +1,1 @@
- Volume in drive D has no label.
- Volume Serial Number is 9CD0-571F
-
- Directory of D:\WD
-
-06-05-2020  12:40    <DIR>          .
-06-05-2020  12:40    <DIR>          ..
-05-04-2020  13:40               628 #1.html
-16-04-2020  11:59    <DIR>          #2
-14-04-2020  11:13           111,771 ef811e57-60c0-41ef-9a21-841e7e130ba5.jfif
-06-05-2020  12:40                 0 test.txt
-               3 File(s)        112,399 bytes
-               3 Dir(s)  918,652,788,736 bytes free
+ change 1
